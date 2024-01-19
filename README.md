@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirChillsalot
-- 👀 I’m interested in various programming languages and more specifically Artificial Intelligence, Machine Learning and Neural Networks
-- 🌱 I’m currently learning Python, Java and C#. At the moment I am working on my IT degree in Software Engineering.
+- 👀 I’m interested in various programming languages and more recently Cloud Computing, Artificial Intelligence, Machine Learning and Neural Networks
+- 🌱 I recently graduated my BSc IT (Software Engineering) degree with Cum Laude honours. I’m currently studying and upskilling in Java and C#.
 - 💞️ I’m looking to collaborate on any projects involving A.I., Machine Learning or Automation of tasks
 - 📫 How to reach me: 
     $E-mail me @ pieterm.basson@gmail.com
