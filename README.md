@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Mathys Basson<br>🌍 Based in South Africa | 💻 Full-Stack Engineer | Summa Cum Laude BSc IT (Software Engineering) Graduate | 🚀 Always Exploring New Tech<br><br>I’m a passionate software engineer with a love for building efficient, user-focused applications. My toolkit includes JavaScript, Vue.js, Nuxt.js, and React—plus a strong curiosity for whatever new frameworks and tools come my way!<br><br>🌱 Currently Learning: Diving deeper into advanced React and exploring backend scalability.<br>⚙️ Favorite Tools: VS Code, Git, Docker, Firebase, and of course… GitHub!<br>🔭 On My GitHub: You’ll find projects for web development, productivity tools, and a few fun experiments along the way.<br><br>Let’s connect and create something awesome together! 🚀
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathys-basson-8b2730228/) 
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -50,5 +46,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathysB21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathys-basson-8b2730228/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
