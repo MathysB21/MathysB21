@@ -14,6 +14,7 @@ run products with real users and real money behind them:
   the technical side.
 
 Most of that work is private. The write-ups are on my portfolio.
+I also build small hardware projects on the side, mostly ESP32 firmware. Kubi, a desktop companion cube, is pinned below.
 
 **Stack:** TypeScript, Next.js, React, Supabase, Tailwind, Go. C#/.NET and
 SQL Server when the job calls for it.
